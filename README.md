@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Django,React**
+- 🌱 I’m currently learning **Node.Js**
 
 - 📫 How to reach me **workforap18@gmail.com**
 
