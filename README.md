@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayaditya&show_icons=true&locale=en" alt="sayaditya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayaditya&" alt="sayaditya" /></p>
+
+https://www.holopin.io/@sayaditya#badges
