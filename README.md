@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditya Patel</h1>
-<h3 align="center">A passionate Data science and developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align= "right" alt= "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayaditya&label=Profile%20views&color=0e75b6&style=flat" alt="sayaditya" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **workforap18@gmail.com**
+- 📫 How to reach me **adityasays121@gmail.com**
 
-- ⚡ Fun fact **I love to go on a walk with my dog😋**
+- ⚡ Fun fact **I love street foods 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
